@@ -8,7 +8,15 @@
             <sparkle:version>101</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.0.1/Zephr.dmg" length="7096944" type="application/octet-stream" sparkle:edSignature="Vz5u0h8SLrOxztzYWGBmszLpxcn07lTaa3hG4DnZPajPCf/BlV8TTcvXf5uX4Yu3UQSkmHp/4TatjLfAuMfcDQ=="/>
+            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.1/Zephr.dmg" length="7096944" type="application/octet-stream" sparkle:edSignature="Vz5u0h8SLrOxztzYWGBmszLpxcn07lTaa3hG4DnZPajPCf/BlV8TTcvXf5uX4Yu3UQSkmHp/4TatjLfAuMfcDQ=="/>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 04 Apr 2026 22:46:44 +1100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.1/Zephr.dmg" length="7270183" type="application/octet-stream" sparkle:edSignature="PwR+aKzMehoFNyCWM/iGI9intKB8O8Cf/TgpjjUjdZpd474+95K49DDdRn8BHPVwyZh57CZHmmEAmiW5s2eyAA=="/>
         </item>
         <item>
             <title>1.0</title>
@@ -16,7 +24,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.0.1/Zephr.dmg" length="7096667" type="application/octet-stream" sparkle:edSignature="ffWabkO94PK4Tc4LkyE9khkaCdGnzjate8CKs9x9Uj2nFlgjjHa6sj2hyYj0ViEcPoStrlaWiaTRMbeu++C4BA=="/>
+            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.1/Zephr.dmg" length="7096667" type="application/octet-stream" sparkle:edSignature="ffWabkO94PK4Tc4LkyE9khkaCdGnzjate8CKs9x9Uj2nFlgjjHa6sj2hyYj0ViEcPoStrlaWiaTRMbeu++C4BA=="/>
         </item>
     </channel>
 </rss>
