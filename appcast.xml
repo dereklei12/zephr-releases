@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>zephr</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 27 Feb 2026 00:45:40 +1100</pubDate>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.0.1/Zephr.dmg" length="7096944" type="application/octet-stream" sparkle:edSignature="Vz5u0h8SLrOxztzYWGBmszLpxcn07lTaa3hG4DnZPajPCf/BlV8TTcvXf5uX4Yu3UQSkmHp/4TatjLfAuMfcDQ=="/>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 27 Feb 2026 00:27:40 +1100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.0.1/Zephr.dmg" length="7096667" type="application/octet-stream" sparkle:edSignature="ffWabkO94PK4Tc4LkyE9khkaCdGnzjate8CKs9x9Uj2nFlgjjHa6sj2hyYj0ViEcPoStrlaWiaTRMbeu++C4BA=="/>
+        </item>
+    </channel>
+</rss>
