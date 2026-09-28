@@ -3,6 +3,14 @@
     <channel>
         <title>zephr</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Mon, 28 Sep 2026 20:15:16 +1000</pubDate>
+            <sparkle:version>120</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.2.0/Zephr.dmg" length="7654104" type="application/octet-stream" sparkle:edSignature="od83aYGZynUYGy86Il24N1+Z677SQPYp156tlKcDLgASoIBcjp5HLYfnrxXiM5c+0OjpM9H6kI6vtk/56P3jAQ=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Sat, 04 Apr 2026 23:30:15 +1100</pubDate>
             <sparkle:version>111</sparkle:version>
@@ -16,15 +24,7 @@
             <sparkle:version>101</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.1.1/Zephr.dmg" length="7096944" type="application/octet-stream" sparkle:edSignature="Vz5u0h8SLrOxztzYWGBmszLpxcn07lTaa3hG4DnZPajPCf/BlV8TTcvXf5uX4Yu3UQSkmHp/4TatjLfAuMfcDQ=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Sat, 04 Apr 2026 22:46:44 +1100</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.1.1/Zephr.dmg" length="7270183" type="application/octet-stream" sparkle:edSignature="PwR+aKzMehoFNyCWM/iGI9intKB8O8Cf/TgpjjUjdZpd474+95K49DDdRn8BHPVwyZh57CZHmmEAmiW5s2eyAA=="/>
+            <enclosure url="https://github.com/dereklei12/zephr-releases/releases/download/v1.0.1/zephr-v1.0.1.dmg" length="7096944" type="application/octet-stream" sparkle:edSignature="Vz5u0h8SLrOxztzYWGBmszLpxcn07lTaa3hG4DnZPajPCf/BlV8TTcvXf5uX4Yu3UQSkmHp/4TatjLfAuMfcDQ=="/>
         </item>
     </channel>
 </rss>
